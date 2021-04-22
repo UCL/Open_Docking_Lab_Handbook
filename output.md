@@ -1,4 +1,3 @@
-<markdown>
 <img src="media/image1.png" style="width:8.08333in;height:1.04555in" />
 
 **Department of Chemistry**
@@ -1384,5 +1383,3 @@ This guide has been written by two former students who undertook computational d
 <img src="media/image192.jpeg" style="width:1.41359in;height:2.12067in" /><img src="media/image193.jpeg" style="width:1.41736in;height:2.13403in" />
 
 Bethanie Clent, BA (Hons), MSc Yuhang Wang, BEng (Hons), MRes
-
-</markdown>
