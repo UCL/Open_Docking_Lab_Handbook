@@ -5,3 +5,5 @@ Files currently available are shown above, on this "code" tab.
 
 The handbook is in the process of being made into a living document, on the wiki (link above), that can be updated by anyone.
 
+We would very much encourage contributions using new docking tools or scoring functions.
+
